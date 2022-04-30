@@ -8,7 +8,7 @@
 
 ### Runnning ###
 
-Firts of all, you to set these environment variables:
+Firts of all, you need to set the environment variables:
 ```
 export NEW_RELIC_ACCOUNT_ID={Your New Relic account ID}
 export NEW_RELIC_API_KEY={Your New Relic API Key, type = USER}
