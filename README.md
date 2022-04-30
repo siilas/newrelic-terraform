@@ -1,6 +1,6 @@
 # Newrelic Terraform #
 
-*Example to create New Relic alerts creation with Terraform.*
+*Just a test creating New Relic alerts with Terraform.*
 
 ### Useful links ###
 
