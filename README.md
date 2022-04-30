@@ -1,4 +1,4 @@
-# Newrelic Terraform (POC) #
+# Newrelic Terraform #
 
 *Example to create New Relic alerts creation with Terraform.*
 
